@@ -31,8 +31,7 @@ Please cite our paper if you find the work useful:
   title={Kvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy},
   author={Jha, Debesh and Ali, Sharib and Emanuelsen, Krister and Hicks, Steven and Thambawita, Vajira and Garcia-Ceja, Enrique and Riegler, Michael and de Lange, Thomas and Schmidt, Peter T and Johansen, H{\aa}vard and others},
   year={2020},
-  publisher={OSF Preprints}
-}
+  publisher={OSF Preprints}}
 </pre>
 
 
