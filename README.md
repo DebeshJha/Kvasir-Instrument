@@ -12,18 +12,14 @@ An example data sample is given here.
 
 
 # Evaluation metrics
+We suggest evaluation metrics such as dice coefficient, Jaccard index, recall, precision,overall accuracy and frame per second (FPS). Their description can be found here. 
 <img src="metrics.png">
 
 # Results on challenging images
+The figure shows the results on the challenging images. 
 <img src="results_instrument.png">
 
 ## Citation
-Please cite our paper if you find the work useful: 
-<pre>
-  ## Citation
-Please cite our paper if you find the work useful: 
-<pre>
-  ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
  @article{jha2020kvasir,
