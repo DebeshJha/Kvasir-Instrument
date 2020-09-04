@@ -7,16 +7,18 @@ Contains the information about the Kvasir-Instrument dataset
 
 The Kvasir-Instrument dataset includes 590 frames consisting of various GI endoscopy tools used during both, endoscopic surveillance and therapeutic or surgical procedures. 
 
-<img src="datasetsample.png">
-<img src="datadistribution.png">
+<img src="sampledata.png">
+
+# Data Distribution
+
+<img src="data_distribution.png">
 
 
-#Results on challenging images
+# Evaluation metrics
+<img src="metrics.png">
 
-#Evaluation metrics
-<img src="datasetsample.png">
-
-<img src="datasetsample.png">
+# Results on challenging images
+<img src="results_instrument.png">
 
 ## Citation
 Please cite our paper if you find the work useful: 
