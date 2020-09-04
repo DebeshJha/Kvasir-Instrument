@@ -1,5 +1,4 @@
-#Kvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy
-Contains the information about the Kvasir-Instrument dataset
+# Kvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy contains the information about the Kvasir-Instrument dataset
 
 
 
