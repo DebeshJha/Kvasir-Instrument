@@ -27,11 +27,14 @@ The figure shows the results on the challenging images.
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
- @article{jha2020kvasir,
-  title={Kvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy},
-  author={Jha, Debesh and Ali, Sharib and Emanuelsen, Krister and Hicks, Steven and Thambawita, Vajira and Garcia-Ceja, Enrique and Riegler, Michael and de Lange, Thomas and Schmidt, Peter T and Johansen, H{\aa}vard and others},
-  year={2020},
-  publisher={OSF Preprints}}
+@inproceedings{jha2021kvasir,
+  title={Kvasir-instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy},
+  author={Jha, Debesh and Ali, Sharib and Emanuelsen, Krister and Hicks, Steven A and Thambawita, Vajira and Garcia-Ceja, Enrique and Riegler, Michael A and Lange, Thomas de and Schmidt, Peter T and Johansen, H{\aa}vard D and others},
+  booktitle={Proceedings of the International Conference on Multimedia Modeling},
+  pages={218--229},
+  year={2021},
+  organization={Springer}
+}
 </pre>
 
 
