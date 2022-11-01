@@ -1,7 +1,14 @@
 # Kvasir-Instrument: Diagnostic and therapeutic tool segmentation dataset in gastrointestinal endoscopy contains the information about the Kvasir-Instrument dataset
 
 # Dataset
-The Kvasir-Instrument dataset includes 590 frames consisting of various GI endoscopy tools used during both endoscopic surveillance and therapeutic or surgical procedures. Moreover, information about the dataset uses, their application, annotation protocol can be found from their webpage. The dataset can be downloaded from [https://datasets.simula.no/kvasir-instrument/](https://datasets.simula.no/kvasir-instrument/). The preprint of the paper can be found [https://osf.io/s5d48/](https://osf.io/s5d48/). The data distribution and An example data sample are given here. 
+The Kvasir-Instrument dataset includes 590 frames consisting of various GI endoscopy tools used during both endoscopic surveillance and therapeutic or surgical procedures. Moreover, information about the dataset uses, their application, annotation protocol can be found from their webpage.
+
+The dataset can be downloaded from [https://datasets.simula.no/kvasir-instrument/](https://datasets.simula.no/kvasir-instrument/).
+
+The publication can be found here: https://arxiv.org/abs/2011.08065
+
+The preprint of the paper can be found [https://osf.io/s5d48/](https://osf.io/s5d48/). 
+
 
 <img src="data_distribution.png">
 
